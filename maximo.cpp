@@ -1,5 +1,5 @@
 // Divide y vencerás: el máximo de cien millones de enteros, repartido con
-// std::thread y corte por profundidad.
+// std::thread y corte por profundidad
 #include <algorithm>
 #include <chrono>
 #include <cstdio>
